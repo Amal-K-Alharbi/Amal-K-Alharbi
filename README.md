@@ -83,15 +83,6 @@
 - Simple web interface for user interaction  
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amal-K-Alharbi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=Amal-K-Alharbi&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
