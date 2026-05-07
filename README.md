@@ -75,14 +75,6 @@
 
 ---
 
-### 🌱 Plant Care — AI Chatbot  
-
-
-- NLP + SBERT for semantic understanding  
-- AI chatbot for plant care recommendations  
-- Simple web interface for user interaction  
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
