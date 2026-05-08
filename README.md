@@ -55,26 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🚗 AcciVision — AI Accident Detection  
-
-
-- YOLO (95% accuracy)  
-- OpenCV real-time video processing  
-- Flask dashboard for monitoring & alerts  
-
----
-
-### 🦾 Robotic Arm  
-
-
-- Arduino + ESP32  
-- Servo motor precision control  
-- Wireless IoT-based system  
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
