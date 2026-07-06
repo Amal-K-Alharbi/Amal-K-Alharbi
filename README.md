@@ -11,7 +11,7 @@
 
 <img align="right" alt="AI" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Artificial Intelligence student passionate about building real-world AI systems  
+🎓 B.Sc Artificial Intelligence passionate about building real-world AI systems  
 🤖 Focused on **ML,DL,NN,Computer Vision, NLP, Robotics, and IoT**  
 ⚡ Building end-to-end solutions from **model → backend → interface**  
 🚀 Interested in scalable AI applications & intelligent automation  
