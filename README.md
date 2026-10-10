@@ -1,75 +1,123 @@
+
 <h1 align="center">Hi 👋, I'm Amal Alharbi</h1>
 
-<h3 align="center">Artificial Intelligence Engineer | Computer Vision | NLP | Robotics</h3>
+<h3 align="center">AI Engineer | Machine Learning | Computer Vision | LLMs | AI Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Artificial+Intelligence+Engineer;Computer+Vision+%7C+NLP+%7C+Generative+AI;Building+Intelligent+Applications;AI+%7C+Robotics+%7C+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Computer+Vision;LLMs+%7C+Generative+AI;AI+Infrastructure+%7C+Model+Serving;Building+AI+Beyond+Experiments" />
 </p>
 
 ---
 
 ## About Me
 
-🎓 Bachelor's in Artificial Intelligence
-🤖 Focused on **Machine Learning, Computer Vision, NLP, and Generative AI**
-⚡ Building **end-to-end AI applications** and intelligent systems
-🚀 Interested in practical AI solutions, automation, and scalable applications
+I'm an Artificial Intelligence Engineer passionate about turning intelligent ideas into practical, deployable systems.
+
+My experience spans **Machine Learning, Computer Vision, NLP, Generative AI, and AI Infrastructure**, from developing and evaluating models to deploying and optimizing AI applications.
+
+I enjoy exploring how AI systems can become more efficient, scalable, and reliable in real-world environments.
+
+- 🎓 Bachelor's Degree in Artificial Intelligence
+- 🧠 Working with Machine Learning, Computer Vision, and LLMs
+- ⚙️ Experienced in AI model serving, containerization, and deployment
+- 🚀 Interested in AI Engineering, inference optimization, and intelligent systems
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,flask,fastapi" />
 </p>
 
-### AI & Development
+### AI Infrastructure & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,mysql" />
 </p>
 
-**AI:** Machine Learning · Deep Learning · NLP · Generative AI · Computer Vision · Object Detection
+**Artificial Intelligence**
+Machine Learning · Deep Learning · Computer Vision · YOLO · NLP · Generative AI · LLMs
 
-**Tools:** Pandas · NumPy · Scikit-learn · OpenCV · Roboflow
+**AI Infrastructure & Model Serving**
+Docker · Kubernetes · Helm · vLLM · CUDA · GPU Inference · Quantization · OpenAI-Compatible APIs
 
-**Robotics:** ROS2 · Arduino · ESP32 · IoT
+**Model Evaluation & Performance**
+Benchmarking · Latency · Throughput · Concurrency · GPU Profiling · Autoscaling
+
+**Libraries & Tools**
+PyTorch · TensorFlow · Scikit-learn · OpenCV · Pandas · NumPy · Roboflow
+
+**Robotics & IoT**
+ROS2 · Arduino · ESP32 · Sensors · IoT
 
 ---
 
 ## Experience
 
-### AI Engineer — IMIDEA
+### AI Data Center Operations Bootcamp
+**Saudi Digital Academy × WeCloudData | Aug 2026 – Oct 2026**
 
+- Built and containerized AI model-serving APIs using Python, FastAPI, and Docker.
+- Deployed and managed inference services using Kubernetes and Helm.
+- Served and benchmarked open-source LLMs using vLLM.
+- Evaluated inference latency, throughput, concurrency, and GPU utilization.
+- Worked with GPU workloads, quantization, autoscaling, and service monitoring.
+
+### AI Engineer Co-op Trainee — IMIDEA
 **Jun 2025 – Dec 2025**
 
-* Developed and evaluated AI models for intelligent automation.
-* Prepared image datasets for computer vision applications.
-* Built AI-powered web applications using Flask.
-* Performed model testing, validation, and optimization.
+- Developed and evaluated machine learning and computer vision models.
+- Prepared and processed image datasets for AI applications.
+- Built AI-powered web applications using Flask.
+- Tested and optimized model performance for practical applications.
 
-### Robotics Engineer — Smart Methods
-
+### Robotics Engineer Trainee — Smart Methods
 **Aug 2025 – Nov 2025**
 
-* Developed robotics and IoT applications using ESP32 and sensors.
-* Built AI-powered robotics applications with ROS2.
-* Integrated AI, embedded systems, databases, and web applications.
+- Developed robotics and IoT applications using ESP32 and sensors.
+- Built AI-powered robotics applications using ROS2.
+- Integrated AI, embedded systems, databases, and web interfaces.
+- Tested and validated robotic software components.
 
 ---
 
-## Projects
+## Featured Projects
+
+### Arabic Language Coach — LLM Evaluation & Deployment
+
+An AI-powered Arabic language coaching system focused on conversational language learning and efficient LLM inference.
+
+- Evaluated Arabic-capable open-source language models.
+- Benchmarked model latency, throughput, and inference performance.
+- Deployed quantized LLMs using vLLM and Kubernetes.
+- Integrated OpenAI-compatible APIs with a web interface.
+- Implemented service monitoring using Prometheus and Grafana.
+
+**Tech:** Python · Qwen3 · ALLaM · vLLM · Docker · Kubernetes · FastAPI · Prometheus · Grafana
 
 ### AcciVision — AI Accident Detection
 
-YOLO + OpenCV + Flask
-AI-based accident detection system with dataset preparation, object detection, model evaluation, and web deployment.
+Computer vision application for detecting road accidents using deep learning and object detection.
 
-### Robotic Arm — Arduino + ESP32
+- Prepared and processed image datasets.
+- Developed object detection workflows using YOLO.
+- Evaluated detection performance.
+- Integrated the AI model into a Flask web application.
 
-Wireless web-controlled robotic arm using servo motors, embedded programming, and IoT connectivity.
+**Tech:** Python · YOLO · OpenCV · Flask
+
+### Robotic Arm — IoT & Embedded Systems
+
+Wireless web-controlled robotic arm integrating embedded systems and IoT connectivity.
+
+- Controlled servo motors using Arduino and ESP32.
+- Developed a web-based control interface.
+- Integrated hardware components and wireless communication.
+
+**Tech:** Arduino · ESP32 · C++ · IoT
 
 ---
 
